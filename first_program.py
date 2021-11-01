@@ -1,3 +1,4 @@
-m = input('Введите что угодно!')
+m = input('Введите что угодно! \n')
 for i in m:
-    print(m*5000)
+    print(i*5000)
+    print('\n')
